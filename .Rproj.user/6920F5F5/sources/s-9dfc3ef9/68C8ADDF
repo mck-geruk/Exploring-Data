@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1550701396230.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "68C8ADDF",
+    "lastKnownWriteTime" : 1550701689,
+    "last_content_update" : 1550701689050,
+    "path" : "/cloud/project/Test script.R",
+    "project_path" : "Test script.R",
+    "properties" : {
+        "cursorPosition" : "3,21",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
